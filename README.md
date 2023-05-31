@@ -38,6 +38,9 @@ The voltmeter cannot read reverse polarity and voltages >25 volts right now beca
 - Select colour and add HTML code #00FFFF
 - ![image](https://github.com/atulravi/virtualmultimeter/assets/70395057/c3282e1a-5c7a-41df-a597-4c98c7a98cf5)
 - Once done, save and you are good to go. 
+- It will look somewhat like this
+- ![image](https://github.com/atulravi/virtualmultimeter/assets/70395057/4f423a28-1562-4b8d-987b-649a8fb696c1)
+
 
 # Device pictures:
 Please note that the inline socket version that can be directly plugged into a multimeter is still in development and will be released soon. Until then, either frankenstien it in the multimeter of your choice, or add a 7 segment display and use it as a seperate device. 
