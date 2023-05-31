@@ -1,9 +1,9 @@
 # Virtual Voltmeter
-A RPI Pico and Python based ecosystem that will make a virtual voltmemetr appear on screen that updates real time and can be used by streamers  who wish to show voltages on the screen as well. 
+A RPI Pico and/or Arduino and Python based ecosystem that will make a virtual voltmeter appear on screen that updates real time and can be used by streamers  who wish to show voltages on the screen as well. 
 
 Best Suited for hardware development streamers and content creators. 
 
-The voltmeter cannot read reverse polarity and voltages >25 volts right now because of the resistor divider used. Feel free to hack at the device and code if ambitious. 
+The voltmeter cannot read reverse polarity and voltages >25 volts right now because of the resistor divider used. Feel free to hack at the device and code if ambitious. I have used the arduino based voltage detector modules that have a 30K and 7.5K resistor ladder.
 
 # Hardware.
 - Upload code to your favorite dev board with Serial communication capabilities. (code in /hardware)
