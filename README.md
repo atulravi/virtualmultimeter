@@ -13,7 +13,7 @@ The voltmeter cannot read reverse polarity and voltages >25 volts right now beca
 - Enjoy. 
 
 # Software
-- Download the setup.exe file from the /software/Executables folder
+- Download the setup.exe file from the v1.0.0 Release. (Check releases tab.)
 - Finish the setup (Don't worry. Does not contain any viruses. Just python code that scans the serial port to give a o/p)
 - In the startup page, type the com port the voltmeter is connected to as is (eg: COM3 (or) com3)
 - Enjoy
