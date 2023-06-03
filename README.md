@@ -11,6 +11,7 @@ The voltmeter cannot read reverse polarity and voltages >25 volts right now beca
 - Connect the parts as described in the schematic in the /hardware folder. 
 - Fit in enclosure that you can 3d print (files provided for 2 styles in /hardware )
 - Enjoy. 
+- Download the 3D Files either from the folder or from printables: https://www.printables.com/model/497685-voltmeter-with-a-pi-pico-that-casts-the-data-to-a-
 
 # Software
 - Download the setup.exe file from the v1.0.0 Release. (Check releases tab.)
