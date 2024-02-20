@@ -1,4 +1,8 @@
 # Virtual Voltmeter
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 A RPI Pico and/or Arduino and Python based ecosystem that will make a virtual voltmeter appear on screen that updates real time and can be used by streamers  who wish to show voltages on the screen as well. 
 
 Best Suited for hardware development streamers and content creators. 
@@ -40,7 +44,9 @@ SEE VIDEO BELOW FOR COMPLETE SETUP
 
 https://github.com/atulravi/virtualmultimeter/assets/70395057/c0b2f832-0102-4875-b9c9-df2db2375dfc
 
-
+# Platform
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # Device pictures:
 Please note that the inline socket version that can be directly plugged into a multimeter is still in development and will be released soon. Until then, either frankenstien it in the multimeter of your choice, or add a 7 segment display and use it as a seperate device.
