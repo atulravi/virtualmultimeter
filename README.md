@@ -64,3 +64,5 @@ Please note that the inline socket version that can be directly plugged into a m
 ![IMG_20230523_130141](https://github.com/atulravi/virtualmultimeter/assets/70395057/77543f32-330d-46b6-87f9-51fa0e103909)
 
 (BEWARE. IF YOU RUIN YOUR DMM, I TAKE NO RESPONSIBILITY. RISKS ARE INVOLVED WITH OSSH)
+
+
